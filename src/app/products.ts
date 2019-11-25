@@ -1,18 +1,23 @@
 export const products = [
   {
-    name: 'Phone XL',
-    price: 799,
-    description: 'A large phone with one of the best screens'
+    name: 'Save The Alien',
+    price: 0.10,
+    description: 'A 6"x4" hardcover Paw Patrol book'
   },
   {
-    name: 'Phone Mini',
-    price: 699,
-    description: 'A great phone with one of the best cameras'
+    name: 'The Pups Save The Bunnies',
+    price: 0.10,
+    description: 'A 6"x4" hardcover Paw Patrol book'
   },
   {
-    name: 'Phone Standard',
-    price: 299,
-    description: ''
+    name: 'Marshall to the Rescue',
+    price: 0.10,
+    description: 'A 6"x4" hardcover Paw Patrol book'
+  },
+  {
+    name: 'Ice Team',
+    price: 0.10,
+    description: 'A 6"x4" hardcover Paw Patrol book'
   }
 ];
 
